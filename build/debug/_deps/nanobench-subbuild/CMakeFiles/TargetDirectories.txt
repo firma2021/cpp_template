@@ -1,0 +1,3 @@
+/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/CMakeFiles/nanobench-populate.dir
+/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/CMakeFiles/rebuild_cache.dir

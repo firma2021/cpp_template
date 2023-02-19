@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pname"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\build\;CMake Files\build\debug\;CMake Files\build\debug\_deps\;CMake Files\build\debug\_deps\doctest-src\;CMake Files\build\debug\_deps\doctest-src\scripts\;CMake Files\build\debug\_deps\doctest-src\scripts\cmake\;CMake Files\build\debug\_deps\nanobench-src\;CMake Files\test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-src"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-src"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bench">
+				<Option output="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/bench" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-src/src/include"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 bench"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bench/fast">
+				<Option output="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/bench" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-src/src/include"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 bench/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nanobench">
+				<Option output="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build/libnanobench.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-src/src/include"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build/Makefile&quot;  VERBOSE=1 nanobench"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nanobench/fast">
+				<Option output="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build/libnanobench.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-src/src/include"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build/Makefile&quot;  VERBOSE=1 nanobench/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="doctest_with_main">
+				<Option output="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build/libdoctest_with_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DDOCTEST_CONFIG_IMPLEMENT_WITH_MAIN"/>
+					<Add directory="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-src"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build/Makefile&quot;  VERBOSE=1 doctest_with_main"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="doctest_with_main/fast">
+				<Option output="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build/libdoctest_with_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DDOCTEST_CONFIG_IMPLEMENT_WITH_MAIN"/>
+					<Add directory="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-src"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward"/>
+					<Add directory="/usr/lib/llvm-14/lib/clang/14.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build/Makefile&quot;  VERBOSE=1 doctest_with_main/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-src/doctest/parts/doctest.cpp">
+			<Option target="doctest_with_main"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-src/src/test/app/nanobench.cpp">
+			<Option target="nanobench"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/test/bench.cpp">
+			<Option target="bench"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/test/test.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\build\debug\_deps\doctest-src\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/doctest-src/scripts/cmake/Config.cmake.in">
+			<Option virtualFolder="CMake Files\build\debug\_deps\doctest-src\scripts\cmake\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\build\debug\_deps\nanobench-src\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/kiki/CLionProjects/cpp_project_template/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

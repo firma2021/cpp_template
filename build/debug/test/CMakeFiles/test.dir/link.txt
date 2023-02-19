@@ -1,0 +1,1 @@
+/usr/bin/clang++  -fsanitize=leak -g CMakeFiles/test.dir/test.cpp.o -o test  ../_deps/doctest-build/libdoctest_with_main.a 

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/CMakeFiles/nanobench-populate"
+		},
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/CMakeFiles/nanobench-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/CMakeFiles/nanobench-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/nanobench-populate-prefix/src/nanobench-populate-stamp/nanobench-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/nanobench-populate-prefix/src/nanobench-populate-stamp/nanobench-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/nanobench-populate-prefix/src/nanobench-populate-stamp/nanobench-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/nanobench-populate-prefix/src/nanobench-populate-stamp/nanobench-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/nanobench-populate-prefix/src/nanobench-populate-stamp/nanobench-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/nanobench-populate-prefix/src/nanobench-populate-stamp/nanobench-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/nanobench-populate-prefix/src/nanobench-populate-stamp/nanobench-populate-test.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug/_deps/nanobench-subbuild/nanobench-populate-prefix/src/nanobench-populate-stamp/nanobench-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nanobench-populate"
+		],
+		"name" : "nanobench-populate"
+	}
+}

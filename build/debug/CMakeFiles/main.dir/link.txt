@@ -1,0 +1,1 @@
+/usr/bin/clang++  -fsanitize=leak -g CMakeFiles/main.dir/main.cpp.o -o main 

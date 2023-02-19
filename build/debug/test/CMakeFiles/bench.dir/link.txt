@@ -1,0 +1,1 @@
+/usr/bin/clang++  -fsanitize=leak -g CMakeFiles/bench.dir/bench.cpp.o -o bench  ../_deps/nanobench-build/libnanobench.a 

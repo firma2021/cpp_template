@@ -1,0 +1,14 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu-22.04 --exec /usr/bin/fish -l -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/clang '-DCMAKE_CXX_COMPILER=/usr/bin/clang++' -G 'CodeBlocks - Unix Makefiles' -S /mnt/c/Users/kiki/CLionProjects/cpp_project_template -B /mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug"
+-- build test files
+-- ---------------------------------
+-- project name: pname
+-- project source dir: /mnt/c/Users/kiki/CLionProjects/cpp_project_template
+-- project binary dir: /mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug
+-- system name: Linux
+-- ---------------------------------
+-- generator: Unix Makefiles
+-- compiler_id: Clang
+cmake version: 3.22.1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/kiki/CLionProjects/cpp_project_template/build/debug
